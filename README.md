@@ -1,7 +1,7 @@
 # SIM-Traffic-Analysis
 
 
-[Paper, slides, and video (NDSS'2020)](https://www.ndss-symposium.org/ndss-paper/practical-traffic-analysis-attacks-on-secure-messaging-applications/)
+[Paper, slides, and video (NDSS'2020)](https://www.ndss-symposium.org/ndss-paper/practical-traffic-analysis-attacks-on-secure-messaging-applications/){:target="_blank" rel="noopener"}
 
 
 ## Abatract:
