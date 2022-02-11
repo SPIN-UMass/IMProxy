@@ -1,6 +1,6 @@
 # SIM-Traffic-Analysis
 
-##Abatract:
+## Abatract:
 
 Instant Messaging (IM) applications like Telegram, Signal, and WhatsApp have become tremendously popular in recent years.
 Unfortunately, such IM services have been  targets of continuous  governmental surveillance and censorship, as these services are home to public and private communication channels on socially and politically sensitive topics.
