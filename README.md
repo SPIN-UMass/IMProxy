@@ -1,5 +1,9 @@
 # SIM-Traffic-Analysis
 
+
+[Paper, slides, and video (NDSS'2020)](https://www.ndss-symposium.org/ndss-paper/practical-traffic-analysis-attacks-on-secure-messaging-applications/)
+
+
 ## Abatract:
 
 Instant Messaging (IM) applications like Telegram, Signal, and WhatsApp have become tremendously popular in recent years.
@@ -35,4 +39,4 @@ a proof of concept countermeasure system, called  IMProxy, that can be used by I
 - The attack algorithms can be found in [`attack algorithms`](./attack%20algorithms) directory.
 - The details of IMProxy countermeasure can be found in [`IMProxy`](./IMProxy) directory.
 - Our dataset of collected traffic and message traces is obtainable at [UMass Trace Repository](https://traces.cs.umass.edu/). The documentation for the dataset can be found in [`dataset`](./dataset/).
-- The code for the NDSS Symposium 2020 paper is now available in [`NDSS SYmposium 2020 Paper`](NDSS%20Symposium%202020%20Paper) directory.
+- The code for the NDSS Symposium 2020 paper is now available in [`NDSS Symposium 2020 Paper`](NDSS%20Symposium%202020%20Paper) directory.
