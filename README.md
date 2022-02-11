@@ -1,4 +1,4 @@
-# SIM-Traffic-Analysis
+# Traffic Analysis of Secure (E2E encrypted) Messaging Apps (E.g., WhatsApp, Signal, Telagram)
 
 
 [Paper, slides, and video (NDSS'2020)](https://www.ndss-symposium.org/ndss-paper/practical-traffic-analysis-attacks-on-secure-messaging-applications/)
