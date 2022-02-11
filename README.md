@@ -1,5 +1,22 @@
 # SIM-Traffic-Analysis
 
+##Abatract:
+
+Instant Messaging (IM) applications like Telegram, Signal, and WhatsApp have become tremendously popular in recent years.
+Unfortunately, such IM services have been  targets of continuous  governmental surveillance and censorship, as these services are home to public and private communication channels on socially and politically sensitive topics.
+To protect their clients,
+  popular IM services deploy state-of-the-art encryption mechanisms.
+In this work, we show that despite the use of advanced encryption, popular IM applications leak sensitive information about their clients to adversaries who merely monitor their encrypted IM traffic, with no need for leveraging any software vulnerabilities of IM applications.
+Specifically, we devise traffic analysis attacks that enable an adversary to identify  participants of target IM communications (e.g., forums) with  high accuracies.
+We believe that our study demonstrates  a significant, real-world threat to the users of such services
+given the increasing attempts by oppressive governments at cracking down controversial IM channels.
+
+
+We demonstrate the practicality of  our traffic analysis attacks through extensive experiments on real-world IM communications. We show that standard  countermeasure techniques such as adding cover traffic  can degrade the effectiveness of the attacks we introduce in this paper.
+We hope that our study will encourage IM providers to integrate effective  traffic obfuscation countermeasures into their software.
+In the meantime, we have designed
+a proof of concept countermeasure system, called  IMProxy, that can be used by IM clients  with no need for any support from IM providers. We demonstrate the effectiveness of IMProxy through simulation and experiments.
+
 ## Summary of our key findings: 
 
 - We devise traffic analysis attacks against encrypted Instant Messaging (IM) applications that shows these apps leak sensitive information about their users to an adversary monitoring the encrypted traffic resulting in reliable identification of users in sensitive communications. These attacks are not due to buggy software implementations of the target services and also do not require the adversary to cooperate with the target IM providers.
